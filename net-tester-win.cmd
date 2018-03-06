@@ -1,0 +1,1 @@
+java -jar net-tester-0.0.1-SNAPSHOT.jar
